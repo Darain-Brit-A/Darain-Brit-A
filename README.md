@@ -1,24 +1,24 @@
 # Hey! I'm Darain Brit 👋
 
-I'm just a beginner in coding, exploring **Game Development**, **AI & Machine Learning**, **Data Science**, and **Cybersecurity**.  
+I'm just a beginner in coding, exploring **AI & Machine Learning**, **Data Science**, **Cybersecurity** and **Game Development**.  
 
 I like learning new things, trying out small projects, and slowly leveling up my skills.  
 
 ---
 
 ## What I'm Learning
-- Game Development (Unity, Unreal Engine)  
 - AI & Machine Learning (Python, TensorFlow, PyTorch)  
 - Data Science (Pandas, NumPy, Matplotlib)  
 - Cybersecurity 
+- Game Development (Unity, Unreal Engine)  
 
 ---
 
 ## My Goals
-- Make **fun and interactive games** 🎮  
 - Try out **AI/ML projects** 🤖  
 - Explore **data and find insights** 📊  
-- Learn **how to keep systems safe** 🔒  
+- Learn **how to keep systems safe** 🔒 
+- Make **fun and interactive games** 🎮  
 - Keep **improving my programming skills** every day 💪  
 
 ---
